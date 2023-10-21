@@ -1,0 +1,10 @@
+.error-page {
+    margin: 8rem auto;
+    text-align: center;
+    line-height: 2.5;
+}
+
+.home-page {
+  color: var(--green-color);
+  cursor: pointer;
+}

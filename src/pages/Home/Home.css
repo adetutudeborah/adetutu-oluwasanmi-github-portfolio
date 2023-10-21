@@ -1,0 +1,36 @@
+.home-container {
+    margin-bottom: 5rem;
+}
+
+.load-more-container {
+    text-align: center;
+}
+
+.load-more {
+    text-align: center;
+    color: #ffff; 
+    text-decoration: none;
+    border-bottom: 2px solid var(--green-color);
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px 15px;
+    display: inline-block;
+    margin: 0 auto;
+    text-transform: uppercase;
+    transition: transform 0.25s;
+  }
+
+.load-more:hover {
+    color: var(--green-color);
+    border-bottom: 2px solid #ffff;
+    transform: scale(1.1);
+}
+
+@media screen and  (max-width: 280px) { 
+
+    .load-more {
+      font-size: 15px;
+    } 
+    
+  }
+  
