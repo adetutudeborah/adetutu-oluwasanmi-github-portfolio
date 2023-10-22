@@ -1,4 +1,4 @@
-# GitHub Portfolio
+# GitHub Portfolio React App
 
 This is a solution to the AltSchool Africa School of Engineering Second Semester Project. This is a React application that fetches and displays a list of repositories from a user's GitHub account using the GitHub API.
 
@@ -7,6 +7,7 @@ This is a solution to the AltSchool Africa School of Engineering Second Semester
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
+   - [Features](#features)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Setting up the repository](#setting-up-the-repository)
@@ -30,15 +31,24 @@ This is a solution to the AltSchool Africa School of Engineering Second Semester
 
 # Links
 
-- [Live site URL]()
-- 
+- [Live site URL](https://adetutu-oluwasanmi-github-portfolio.netlify.app/)
+- [GitHub URL](https://github.com/adetutudeborah/adetutu-oluwasanmi-github-portfolio)
 
+## Features
+
+- GitHub Repository List/ Home Page
+- Repository Detail Page
+- Nested Routes
+- Error Boundary
+- 404 Page
 
 # My process
 
 ## Built with
 
 - React
+- GitHub API
+- CSS
 
 ## Setting up the repository
 
@@ -64,6 +74,7 @@ The project uses the following libraries and dependencies:
 - React Router
 - React Icons
 - React Router DOM
+- GitHub API
 - Font Awesome
 
 
